@@ -14,7 +14,66 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      applications: {
+        Row: {
+          company: string
+          cover_letter: string | null
+          created_at: string
+          date_applied: string
+          id: string
+          job_description: string
+          notes: string | null
+          role: string
+          status: string
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          company: string
+          cover_letter?: string | null
+          created_at?: string
+          date_applied?: string
+          id?: string
+          job_description?: string
+          notes?: string | null
+          role: string
+          status?: string
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          company?: string
+          cover_letter?: string | null
+          created_at?: string
+          date_applied?: string
+          id?: string
+          job_description?: string
+          notes?: string | null
+          role?: string
+          status?: string
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      profiles: {
+        Row: {
+          bio: string
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          bio?: string
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          bio?: string
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
