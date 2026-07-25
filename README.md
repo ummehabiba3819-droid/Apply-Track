@@ -3,6 +3,9 @@
 **Live app:** https://apply-buddy-ai-53.lovable.app/auth
 **Repo:** https://github.com/ummehabiba3819-droid/Apply-Track
 
+Email:umme@gmail.com
+Password:umme@2005
+
 ## The problem I'm solving, and who it's for
 
 I built ApplyTrack because job hunting gets messy fast. When you're applying to multiple jobs or internships at once, your applications end up scattered across emails, spreadsheets, and sticky notes, and it's easy to lose track of what you applied to, when, and what stage it's at. On top of that, writing a genuinely tailored cover letter for every single application takes so long that most people either skip it or send the same generic letter everywhere — which hurts their chances.
