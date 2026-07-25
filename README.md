@@ -67,11 +67,10 @@ I wrote these rules specifically to stop the AI from inventing experience I don'
 
 ![Dashboard](./dashboard.png)
 ![AI tailored cover letter](./cover-letter.png)
-![Profile / background page](./profile.png)
-![Mobile — sign in](./mobile-signin.jpg)
-![Mobile — dashboard](./mobile-dashboard.jpg)
-![Mobile — profile](./mobile-profile.jpg)
-
+![Profile / background page](./profile%20.png)
+![Mobile — sign in](./mobile-signin.jpeg)
+![Mobile — dashboard](./mobile-dashboard.jpeg)
+![Mobile — profile](./mobile-profile.jpeg)
 ## How to run this project yourself
 
 **You'll need:** Node.js (or Bun), a Supabase project, and a Lovable AI Gateway key.
