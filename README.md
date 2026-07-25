@@ -1,7 +1,7 @@
 # ApplyTrack — Your Job Hunt Mission Log
 
 **Live app:** https://apply-buddy-ai-53.lovable.app/auth
-**Repo:** https://github.com/ummehabiba3819-droid/apply-buddy-ai-53
+**Repo:** https://github.com/ummehabiba3819-droid/Apply-Track
 
 ## The problem I'm solving, and who it's for
 
