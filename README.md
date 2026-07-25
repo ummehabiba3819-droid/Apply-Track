@@ -1,4 +1,4 @@
-# ApplyTrack — Your Job Hunt Mission Log
+# Apply-Track — Your Job Hunt Mission Log
 
 **Live app:** https://apply-buddy-ai-53.lovable.app/auth
 **Repo:** https://github.com/ummehabiba3819-droid/Apply-Track
